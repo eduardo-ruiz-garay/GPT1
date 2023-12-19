@@ -10,3 +10,6 @@ Following a recently republished article called "Attention is all you need" post
 ![image](https://github.com/eduardo-ruiz-garay/GPT1/assets/132950152/db1314d2-6ab9-451a-804c-b394305d8ff5)
 
 I trained a GPT using self-attention and embeddings to a realistically precise point (i.e. it looks like shakespeare). For a more in-depth explination, please take a look at the gpt-dev.ipynb as it contained more precise explinations. 
+
+## The results
+![image](https://github.com/eduardo-ruiz-garay/GPT1/assets/132950152/9c0affa4-f398-4610-99ef-f62acfcf8006)
